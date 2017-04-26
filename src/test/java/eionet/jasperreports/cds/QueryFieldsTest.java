@@ -4,11 +4,11 @@ import java.util.Map;
 import java.util.Set;
 import java.util.ArrayList;
 
-import org.openrdf.query.algebra.TupleExpr;
-import org.openrdf.query.parser.ParsedQuery;
-import org.openrdf.query.parser.ParsedTupleQuery;
-import org.openrdf.query.parser.QueryParserUtil;
-import org.openrdf.query.QueryLanguage;
+import org.eclipse.rdf4j.query.algebra.TupleExpr;
+import org.eclipse.rdf4j.query.parser.ParsedQuery;
+import org.eclipse.rdf4j.query.parser.ParsedTupleQuery;
+import org.eclipse.rdf4j.query.parser.QueryParserUtil;
+import org.eclipse.rdf4j.query.QueryLanguage;
 
 import org.junit.Test;
 import org.junit.Assert;
